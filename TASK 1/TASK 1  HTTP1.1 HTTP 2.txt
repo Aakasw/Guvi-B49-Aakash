@@ -1,0 +1,8 @@
+HTTP/1.1
+
+HTTP/1.1, introduced in 1997, is a text-based protocol that uses plain text messages for communication between the client and server. It supports persistent connections, allowing multiple requests and responses to be sent over a single TCP connection. However, it suffers from head-of-line blocking, where a single slow request can block all subsequent requests 1
+
+
+HTTP/2.0
+
+HTTP/2.0, released in 2015, is a binary protocol that improves upon HTTP/1.1 by using a binary framing layer. This allows for more efficient data transfer and reduces latency. HTTP/2.0 supports multiplexing, which enables multiple requests and responses to be sent simultaneously over a single connection, eliminating head-of-line blocking 2
