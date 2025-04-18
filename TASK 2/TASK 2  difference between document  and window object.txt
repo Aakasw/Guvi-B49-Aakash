@@ -1,0 +1,7 @@
+The Document Object
+
+The document object represents the content of the web page loaded in the browser. It is the root node of the HTML document and provides a gateway to manipulate the structure and style of the page. Through the document object, developers can access and modify elements, set or get attributes, and react to or trigger events.
+ 
+The Window Object
+
+The window object, on the other hand, represents the browser window or frame that displays the document's content. It is the top-level object in the browser's scripting environment and holds global variables, functions, and the document object itself.
